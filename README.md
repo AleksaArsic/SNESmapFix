@@ -1,5 +1,4 @@
 # SNESmapFix
-
 A simple C program for eliminating garbage values in map files produced by SuperFamiconv (v0.3.1)
 
 Output file contains C array of hexadecimal indexes (map) of tiles used for drawing backgrounds and sprites on SNES.
