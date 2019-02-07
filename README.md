@@ -9,6 +9,6 @@ The following values should be known before the start of main program:
   - GARBAGE(x) - garbage to be eliminated 
   
 Optional:
-  - FORMAT_OUTPUT - format ouput file in a specific number of columns
+  - FORMAT_OUTPUT - format output file in a specific number of columns
 
 This project is made in Code::Blocks (v16.01)
